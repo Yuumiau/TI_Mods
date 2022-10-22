@@ -1,0 +1,77 @@
+[
+ {
+   "friendlyName": "Plasma Confinement Radiator Systems",
+   "dataName": "PlasmaConfinementRadiatorSystems",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": null,
+   "endGameTech": null,
+   "researchCost": 20000,
+   "prereqs": [
+      "MagneticPlasmaConfinementTechniques",
+      "AppliedArtificialIntelligence",
+      "MicroparticleDropletRadiators"
+   ],
+   "altPrereq0": "",
+   "year": "",
+   "effects": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": "",
+   "voiceoverPath": ""
+},
+ {
+   "friendlyName": "Microparticle Droplet Radiators",
+   "dataName": "MicroparticleDropletRadiators",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": null,
+   "endGameTech": null,
+   "researchCost": 10000,
+   "prereqs": [
+      "MagneticNozzles",
+      "ImprovedShipbuildingTechniques",
+      ""
+   ],
+   "altPrereq0": "",
+   "year": "",
+   "effects": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": "",
+   "voiceoverPath": ""
+},
+ {
+   "friendlyName": "Radiator Miniaturization Techniques",
+   "dataName": "RadiatorMiniaturizationTechniques",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": null,
+   "endGameTech": null,
+   "researchCost": 5000,
+   "prereqs": [
+      "AdvancedHeatManagementConcepts",
+      "SuperconductingMagnets",
+      ""
+   ],
+   "altPrereq0": "",
+   "year": "",
+   "effects": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": "",
+   "voiceoverPath": ""
+}
+]

@@ -1,0 +1,282 @@
+[
+{
+   "friendlyName": "Advanced ETHER Charged Dust Radiator",
+   "dataName": "Project_AETHERRadiator",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": null,
+   "AI_projectRole": "Radiators",
+   "researchCost": 3000,
+   "prereqs": [
+      "RadiatorMiniaturizationTechniques",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 50,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "Curie Point Radiator",
+   "dataName": "Project_CuriePointRadiator",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": null,
+   "AI_projectRole": "Radiators",
+   "researchCost": 4000,
+   "prereqs": [
+      "MagneticNozzles",
+      "ImprovedShipbuildingTechniques",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 50,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "Microparticle Curie Point Radiator",
+   "dataName": "Project_MicroparticleCurieRadiator",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": null,
+   "AI_projectRole": "Radiators",
+   "researchCost": 6000,
+   "prereqs": [
+      "MicroparticleDropletRadiators",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 50,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "Magnetic Loop Dusty Plasma Radiator",
+   "dataName": "Project_MagneticPlasmaDustRadiator",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": null,
+   "AI_projectRole": "Radiators",
+   "researchCost": 12000,
+   "prereqs": [
+      "MagneticPlasmaConfinementTechniques",
+      "ImprovedShipbuildingTechniques",
+      "AdvancedHeatManagementConcepts",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 50,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "Dynamic Ionized Dusty Plasma Radiator",
+   "dataName": "Project_DynamicPlasmaDustRadiator",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": null,
+   "AI_projectRole": "Radiators",
+   "researchCost": 20000,
+   "prereqs": [
+      "PlasmaConfinementRadiatorSystems",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 50,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+}
+]

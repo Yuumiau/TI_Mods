@@ -1,0 +1,46 @@
+TIRadiatorTemplate.displayName.AETHERRadiator=Advanced ETHER Charged Dust Radiator
+TIRadiatorTemplate.description.AETHERRadiator=The charged particles move along the field lines and travel in elliptical orbits between the heat exchanger and the collection point.
+TIProjectTemplate.displayName.Project_AETHERRadiator=Advanced ETHER Charged Dust Radiator 
+TIProjectTemplate.summary.Project_AETHERRadiator=The charged particles move along the field lines and travel in elliptical orbits between the heat exchanger and the collection point.
+TIProjectTemplate.description.Project_AETHERRadiator=Since electrostatic radiators only need to create a strong charge differential instead of extending a strong magnetic field, they consume less power and are more advantageous.
+TITechTemplate.displayName.RadiatorMiniaturizationTechniques=Radiator Miniaturization Techniques
+TITechTemplate.quote.RadiatorMiniaturizationTechniques="Every spaceship will have radiators. Energy such as sunlight, reactors, habitats and rocket engines accumulates as heat unless it is removed through radiation. "<br/><align=right>{cooperateLeader}<align=left><br/><align=right>Paragraph first of <i>ToughSF Introduction to All the Radiators</i><align=left>
+TITechTemplate.summary.RadiatorMiniaturizationTechniques=We consider our advances in miniaturizing electrostatic radiators to be now a better equipped to deal with waste heat than our older droplet systems.
+TITechTemplate.description.RadiatorMiniaturizationTechniques=Electrostatic radiators have many advantages, including low power consumption, light weight, and resistance to temperature changes. These radiators work by creating a charge differential between two points, which then attracts charged particles. However, this charge can be nullified by solar wind or contact with a conductor. This means that electrostatic radiator particles need a clear, short path between the heat exchanger and the collection point. We have now resolved not only this problem, but we also were able to reduce the weight of materials used for this system.</br></br>Mod Author: Huge thanks to ToughSF blog upon which those concepts were built and descriptions written. Without his articles it would be impossible for me to create that mod in a shape that it is now.
+
+
+TIRadiatorTemplate.displayName.CuriePointRadiator=Curie Point Radiator
+TIRadiatorTemplate.description.CuriePointRadiator=The Curie point radiator uses metal filings or liquid droplets to dissipate heat.
+TIProjectTemplate.displayName.Project_CuriePointRadiator=Optimizations of Curie Point Radiator
+TIProjectTemplate.summary.Project_CuriePointRadiator=The Curie point radiator uses metal filings or liquid droplets to dissipate heat. We have figured out a few new ways to make the design much lighter.
+TIProjectTemplate.description.Project_CuriePointRadiator=Cobalt has very high Curie temperature (the temperature at which it becomes magnetically inert), is naturally black and boils at a 3400K. The small size of the particles or liquid droplets allows several megawatts of waste heat to be radiated away per square meter. With the latest advances in metamaterials, we have been able to create equipment that is much lighter and more efficient at executing this process than the previous generation of Curie Point Cobalt Dust Radiator.
+
+
+TIRadiatorTemplate.displayName.MicroparticleCurieRadiator=Microparticle Curie Point Radiator
+TIRadiatorTemplate.description.MicroparticleCurieRadiator=20um microparticles are used by this Curie Point Radiator variant allowing us to greatly increase radiated heat per m2.
+TIProjectTemplate.displayName.Project_MicroparticleCurieRadiator=Microparticle Based Curie Point Radiator
+TIProjectTemplate.summary.Project_MicroparticleCurieRadiator=We study the usage of microparticles in heat dissipatation.
+TIProjectTemplate.description.Project_MicroparticleCurieRadiator=The CPR works by heating small ferromagnetic particles above their Curie point with waste heat. The particles then radiate this heat into space, cooling below the Curie point and becoming ferromagnetic again. They are then collected and cycled again through the heat exchanger. How small particles can be viably used in this setup?
+TITechTemplate.displayName.MicroparticleDropletRadiators=Microparticle Droplet Radiators
+TITechTemplate.quote.MicroparticleDropletRadiators="You're telling me that how much these radiators will cost? No way. Find me other options or you will never find any work in this market ever again."<br/><align=right>{exploitLeader}<align=left><br/><align=right>Emergency meeting about projected costs for upcoming spaceship.<align=left>
+TITechTemplate.summary.MicroparticleDropletRadiators=The Microparticle Curie Point Radiator is an advanced radiator concept that offers unique advantages in terms of possible improvements in space power system efficiencies and reduced radiator mass requirements.
+TITechTemplate.description.MicroparticleDropletRadiators=The CPR works by heating small ferromagnetic particles above their Curie point with waste heat, causing them to become magnetically inactive. As they cool and their temperature drops below the Curie point, they become ferromagnetic again and can be collected by a magnetic field. The particles are then cycled againthrough the heat exchanger. With this setup, we've achieved 20um ferromagnetic particles improving CPR capabilities.</br></br>Mod Author: Huge thanks to ToughSF blog upon which those concepts were built and descriptions written. Without his articles it would be impossible for me to create that mod in a shape that it is now.
+
+
+TIRadiatorTemplate.displayName.MagneticPlasmaDustRadiator=Magnetic Dusty Plasma Radiator
+TIRadiatorTemplate.description.MagneticPlasmaDustRadiator=The plasma can be quite cold and still serve to manipulate the dust particles.
+TIProjectTemplate.displayName.Project_MagneticPlasmaDustRadiator=Studying the Dusty Plasma Capabilities
+TIProjectTemplate.summary.Project_MagneticPlasmaDustRadiator=The dust particles suspended in a plasma behave in fascinating ways, still being discovered by the dusty plasma field of research. 
+TIProjectTemplate.description.Project_MagneticPlasmaDustRadiator=A more complete understanding of these behaviours can enable a radiator to possess all desirable characteristics: a wide operating temperature range, very low mass per square meter, easy manipulation by electromagnetic and electrostatic forces, low vulnerability to damage, and the ability to withstand strong accelerations.
+
+
+
+TIRadiatorTemplate.displayName.DynamicPlasmaDustRadiator=Dynamic Ionized Dusty Plasma Radiator
+TIRadiatorTemplate.description.DynamicPlasmaDustRadiator=This model uses electric currents flowing through dusty quasi-crystals to push heat dissipation to the maximum.
+TIProjectTemplate.displayName.Project_DynamicPlasmaDustRadiator=AI Operated Dusty Plasma Radiator Systems
+TIProjectTemplate.summary.Project_DynamicPlasmaDustRadiator=We study the concept and ways of AI usage in quasi-crystal manipulations.
+TIProjectTemplate.description.Project_DynamicPlasmaDustRadiator=The dust particles in a plasma exhibit some fascinating behaviors that are still being discovered by researchers. These interesting behaviors include self-organizing into quasi-crystalline structures, building DNA-strand-like bridges through plasma, or collecting into disks with empty centers.
+TITechTemplate.displayName.PlasmaConfinementRadiatorSystems=Plasma Confinement Radiator Systems
+TITechTemplate.quote.PlasmaConfinementRadiatorSystems="THEY TOLD US IT CANT BE DONE SO WE DID IT. THE CAT IS OUT OF THE BOX. THE CAT IS NOW COLD."<br/><align=right>{submitLeader}<align=left><br/><align=right>Tweet to her followers.<align=left>
+TITechTemplate.summary.PlasmaConfinementRadiatorSystems=A deeper understanding of these behaviours can help our radiator to merge every positive quality.
+TITechTemplate.description.PlasmaConfinementRadiatorSystems=An advanced dusty plasma radiator would work by shooting dust particles into a plasma. The plasma would then self-organize into thin planes and exhibit quasi-crystalline structure, which maximizes the radiating surface area. The ionization state of the particles could be changed by running an electric current through the plasma. This causes the dust to clump together and follow the magnetic field back to a collector.</br></br>Working upon this concept we have created in collaboration with AI entire fins composed of just a few um high structures housing an elaborate system pushing the heat dissipatation to almost impossible performance.</br></br>Mod Author: Huge thanks to ToughSF blog upon which those concepts were built and descriptions written. Without his articles it would be impossible for me to create that mod in a shape that it is now.

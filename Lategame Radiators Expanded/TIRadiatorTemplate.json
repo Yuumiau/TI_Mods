@@ -1,0 +1,109 @@
+[
+ {
+   "dataName": "AETHERRadiator",
+   "friendlyName": "Advanced ETHER Charged Dust Radiator",
+   "specificMass_2s_kgm2": 71,
+   "specificPower_2s_KWkg": 20,
+   "operatingTemp_K": 1800,
+   "emissivity": 0.8,
+   "vulnerability": 4,
+   "collector": true,
+   "requiredProjectName": "Project_AETHERRadiator",
+   "crew": 3,
+   "weightedBuildMaterials": {
+      "volatiles": 1.5,
+      "metals": 4,
+      "nobleMetals": 1.4,
+      "exotics": 0
+   },
+   "iconResource": "ico_radiators_expanded/ICO_AETHER",
+   "combatUIpath": "droplet",
+   "radiatorType": "Droplet"
+},
+ {
+   "dataName": "CuriePointRadiator",
+   "friendlyName": "Curie Point Radiator",
+   "specificMass_2s_kgm2": 35,
+   "specificPower_2s_KWkg": 31,
+   "operatingTemp_K": 1365,
+   "emissivity": 0.8,
+   "vulnerability": 3,
+   "collector": true,
+   "requiredProjectName": "Project_CuriePointRadiator",
+   "crew": 3,
+   "weightedBuildMaterials": {
+      "volatiles": 0.3,
+      "metals": 7.5,
+      "nobleMetals": 4.2,
+      "exotics": 0
+   },
+   "iconResource": "ico_radiators_expanded/ICO_CuriePoint",
+   "combatUIpath": "droplet",
+   "radiatorType": "Droplet"
+},
+ {
+   "dataName": "MicroparticleCurieRadiator",
+   "friendlyName": "Microparticle Curie Point Radiator",
+   "specificMass_2s_kgm2": 4.3,
+   "specificPower_2s_KWkg": 52,
+   "operatingTemp_K": 1550,
+   "emissivity": 0.85,
+   "vulnerability": 4,
+   "collector": true,
+   "requiredProjectName": "Project_MicroparticleCurieRadiator",
+   "crew": 3,
+   "weightedBuildMaterials": {
+      "volatiles": 0.6,
+      "metals": 10.2,
+      "nobleMetals": 10.3,
+      "exotics": 0
+   },
+   "iconResource": "ico_radiators_expanded/ICO_MicroCuriePoint",
+   "combatUIpath": "droplet",
+   "radiatorType": "Droplet"
+},
+ {
+   "dataName": "MagneticPlasmaDustRadiator",
+   "friendlyName": "Magnetic Loop Dusty Plasma Radiator",
+   "specificMass_2s_kgm2": 4.3,
+   "specificPower_2s_KWkg": 187,
+   "operatingTemp_K": 1800,
+   "emissivity": 0.85,
+   "vulnerability": 7,
+   "collector": true,
+   "requiredProjectName": "Project_MagneticPlasmaDustRadiator",
+   "crew": 3,
+   "weightedBuildMaterials": {
+      "volatiles": 0,
+      "metals": 15,
+      "nobleMetals": 35,
+	  "fissiles": 5,
+      "exotics": 0
+   },
+   "iconResource": "ico_radiators_expanded/ICO_Magnetic_Dusty_Plasma",
+   "combatUIpath": "droplet",
+   "radiatorType": "Droplet"
+},
+ {
+   "dataName": "DynamicPlasmaDustRadiator",
+   "friendlyName": "Dynamic Ionized Dusty Plasma Radiator",
+   "specificMass_2s_kgm2": 4.3,
+   "specificPower_2s_KWkg": 730,
+   "operatingTemp_K": 1950,
+   "emissivity": 0.99,
+   "vulnerability": 45,
+   "collector": true,
+   "requiredProjectName": "Project_DynamicPlasmaDustRadiator",
+   "crew": 3,
+   "weightedBuildMaterials": {
+      "volatiles": 0,
+      "metals": 60,
+      "nobleMetals": 100,
+	  "fissiles": 10,
+      "exotics": 0
+   },
+   "iconResource": "ico_radiators_expanded/ICO_Crystalline_Dusty_Plasma",
+   "combatUIpath": "fins",
+   "radiatorType": "fins"
+}
+]
